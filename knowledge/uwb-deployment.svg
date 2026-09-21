@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+<title id="title">04 / DEPLOYMENT: GEOMETRY + VISIBILITY</title><desc id="desc">Warehouse top view. A blocked direct path may leave a longer reflected path at the receiver.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#334155" stroke-opacity=".25"/></pattern><marker id="cyan" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="none" stroke="#22d3ee" stroke-width="1.5"/></marker><marker id="green" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="none" stroke="#34d399" stroke-width="1.5"/></marker></defs>
+<rect width="1200" height="680" fill="#020617"/><rect width="1200" height="680" fill="url(#grid)"/>
+<g font-family="Arial, sans-serif"><text x="45" y="53" fill="#f8fafc" font-size="30">04 / DEPLOYMENT: GEOMETRY + VISIBILITY</text><text x="45" y="87" fill="#94a3b8" font-size="19">Warehouse top view. A blocked direct path may leave a longer reflected path at the receiver.</text><path d="M45 113H1155" stroke="#334155"/><rect x="45" y="145" width="730" height="455" rx="16" fill="#0f172a" fill-opacity=".6" stroke="#475569"/>
+  <rect x="70" y="169" width="215" height="100" rx="14" fill="#0f172a" stroke="#22d3ee" stroke-opacity=".65"/><text x="92" y="209" fill="#f8fafc" font-size="23">Anchor A</text><text x="92" y="241" fill="#94a3b8" font-size="18">Surveyed location</text><rect x="527" y="169" width="215" height="100" rx="14" fill="#0f172a" stroke="#22d3ee" stroke-opacity=".65"/><text x="549" y="209" fill="#f8fafc" font-size="23">Anchor B</text><text x="549" y="241" fill="#94a3b8" font-size="18">Surveyed location</text>
+  <rect x="390" y="320" width="300" height="55" rx="8" fill="#334155" stroke="#64748b"/><text x="410" y="354" fill="#cbd5e1" font-size="18">METAL RACK</text>
+  <rect x="285" y="484" width="225" height="100" rx="14" fill="#0f172a" stroke="#22d3ee" stroke-opacity=".65"/><text x="307" y="524" fill="#f8fafc" font-size="23">Moving tag</text><text x="307" y="556" fill="#94a3b8" font-size="18">Actual mounting</text>
+  <path d="M297 477 L181 277" fill="none" stroke="#22d3ee" stroke-width="3" stroke-dasharray="8 7" marker-end="url(#cyan)"/><text x="75" y="380" fill="#22d3ee" font-size="20">Clear path</text>
+  <path d="M430 480L635 278" stroke="#f59e0b" stroke-width="2" stroke-dasharray="6 7"/>
+  <text x="546" y="434" fill="#fbbf24" font-size="18">Blocked</text>
+  <path d="M514 513L751 401L702 278" stroke="#34d399" stroke-width="3" fill="none" marker-end="url(#green)"/>
+  <text x="534" y="558" fill="#34d399" font-size="19">Reflected path</text>
+  <text x="820" y="205" fill="#34d399" font-size="18">VALIDATE ON SITE</text>
+  <text x="820" y="261" fill="#f8fafc" font-size="25">Anchor geometry</text><text x="820" y="294" fill="#94a3b8" font-size="18">Visibility across the work area</text>
+  <text x="820" y="366" fill="#f8fafc" font-size="24">Real operating conditions</text><text x="820" y="399" fill="#94a3b8" font-size="18">Stock, vehicles, people, orientation</text>
+  <text x="820" y="470" fill="#f8fafc" font-size="25">Quality + freshness</text><text x="820" y="503" fill="#94a3b8" font-size="18">Error, valid fixes and latency</text>
+  <text x="820" y="569" fill="#64748b" font-size="17">Illustrative layout, not a site design</text><path d="M45 622H1155" stroke="#334155"/><text x="45" y="655" fill="#64748b" font-size="15">JINJU / POSITIONING TECHNOLOGIES</text><text x="840" y="655" fill="#64748b" font-size="15">CONCEPT ONLY · NOT TO SCALE</text></g></svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+<title id="title">INSTALLATION / RECORD POSITION AND ORIENTATION</title><desc id="desc">A site coordinate frame links station observations to a floor plan. Survey before tuning.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#334155" stroke-opacity=".25"/></pattern><marker id="cyan" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="none" stroke="#22d3ee" stroke-width="1.5"/></marker><marker id="green" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="none" stroke="#34d399" stroke-width="1.5"/></marker></defs>
+<rect width="1200" height="680" fill="#020617"/><rect width="1200" height="680" fill="url(#grid)"/>
+<g font-family="Arial, sans-serif"><text x="45" y="53" fill="#f8fafc" font-size="30">INSTALLATION / RECORD POSITION AND ORIENTATION</text><text x="45" y="87" fill="#94a3b8" font-size="19">A site coordinate frame links station observations to a floor plan. Survey before tuning.</text><path d="M45 113H1155" stroke="#334155"/><rect x="60" y="155" width="660" height="425" rx="16" fill="#0f172a" stroke="#475569"/>
+  <text x="80" y="188" fill="#94a3b8" font-size="17">TOP VIEW / SITE FRAME</text>
+  <path d="M120 510 L652 510" fill="none" stroke="#22d3ee" stroke-width="3"  marker-end="url(#cyan)"/><path d="M120 510 L120 235" fill="none" stroke="#22d3ee" stroke-width="3"  marker-end="url(#cyan)"/><text x="660" y="517" fill="#22d3ee" font-size="23">X</text><text x="108" y="222" fill="#22d3ee" font-size="23">Y</text>
+  <circle cx="375" cy="325" r="22" fill="#164e63" stroke="#22d3ee"/>
+  <path d="M398 319 L514 260" fill="none" stroke="#34d399" stroke-width="3"  marker-end="url(#green)"/><text x="467" y="232" fill="#34d399" font-size="18">Station direction</text>
+  <text x="291" y="374" fill="#f8fafc" font-size="22">Station (x, y)</text>
+  <circle cx="215" cy="264" r="8" fill="#34d399"/><text x="229" y="270" fill="#cbd5e1" font-size="18">Test 1</text><circle cx="572" cy="396" r="8" fill="#34d399"/><text x="586" y="402" fill="#cbd5e1" font-size="18">Test 2</text><circle cx="278" cy="453" r="8" fill="#34d399"/><text x="292" y="459" fill="#cbd5e1" font-size="18">Test 3</text>
+  <text x="784" y="189" fill="#94a3b8" font-size="17">SIDE VIEW / HEIGHT</text>
+  <path d="M800 245H1120M800 481H1120" stroke="#64748b" stroke-width="3"/>
+  <rect x="865" y="250" width="115" height="45" rx="8" fill="#164e63" stroke="#22d3ee"/>
+  <path d="M921 303V473" stroke="#34d399" stroke-width="2" stroke-dasharray="7 7"/>
+  <text x="942" y="386" fill="#34d399" font-size="22">Height Z</text><text x="800" y="528" fill="#cbd5e1" font-size="20">Also record tilt and tag height.</text><text x="800" y="562" fill="#94a3b8" font-size="18">No universal mounting height.</text><path d="M45 622H1155" stroke="#334155"/><text x="45" y="655" fill="#64748b" font-size="15">JINJU / POSITIONING TECHNOLOGIES</text><text x="840" y="655" fill="#64748b" font-size="15">CONCEPT ONLY · NOT TO SCALE</text></g></svg>

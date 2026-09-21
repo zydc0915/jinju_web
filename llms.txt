@@ -1,0 +1,71 @@
+# Jinju Intelligence — Industrial Positioning & IoT
+
+> English product specifications and technical guides for indoor positioning, personnel and asset tracking, Bluetooth LE / AoA, UWB and low-power industrial IoT.
+
+Website: https://www.rpilink.com/
+
+Company: Jinju Intelligence (Beijing) Technology Co., Ltd.
+
+Product enquiries: [zydc0915@gmail.com](mailto:zydc0915@gmail.com).
+
+Each link below opens a Markdown alternative generated from the corresponding public HTML page. Each document identifies its canonical HTML URL. Specifications, supported protocols and options are model-dependent; product selection notes and English datasheets provide the stated conditions. General technology guides do not establish that every listed product implements the described feature.
+
+## Start here
+
+- [Indoor Positioning Systems, UWB & BLE AoA RTLS](https://www.rpilink.com/index.md): Plan an industrial indoor positioning system with UWB or BLE AoA. Explore RTLS hardware, personnel tracking badges, helmet trackers and IoT gateways.
+- [UWB, BLE AoA, LoRaWAN Gateways & Tracking Tags](https://www.rpilink.com/products/index.md): Compare UWB anchors, BLE AoA gateways, Bluetooth beacons, personnel badges, helmet trackers and LoRaWAN gateways with product specifications.
+- [Indoor Positioning Solutions: BLE AoA & UWB RTLS](https://www.rpilink.com/solutions/index.md): Compare BLE beacon, Bluetooth AoA, UWB beacon, TDoA and PDoA positioning solutions for industrial personnel, asset, tunnel and indoor-outdoor tracking.
+- [Contact Jinju | Industrial Positioning & IoT](https://www.rpilink.com/contact/index.md): Contact Jinju Intelligence for UWB, BLE AoA, LoRaWAN gateway and personnel tracking product enquiries. Email zydc0915@gmail.com.
+
+## Positioning technology guides
+
+- [Positioning Technologies](https://www.rpilink.com/knowledge/positioning-technologies/index.md): Explore Bluetooth and UWB positioning guides, warehouse technology comparisons, station installation, personnel badge selection and indoor positioning project costs.
+- [Introduction to Bluetooth Positioning](https://www.rpilink.com/knowledge/positioning-technologies/bluetooth-positioning/index.md): Compare Bluetooth gateway and beacon positioning, BLE AoA and Bluetooth ToF / Channel Sounding with diagrams, deployment guidance and hardware requirements.
+- [BLE AoA vs UWB: Which Should You Choose for Warehouse Positioning?](https://www.rpilink.com/knowledge/positioning-technologies/ble-aoa-vs-uwb-warehouse/index.md): Compare BLE AoA and UWB for warehouse positioning: rack geometry, tag compatibility, moving assets, battery planning and practical pilot acceptance criteria.
+- [How to Install and Calibrate a UWB AoA Positioning Station](https://www.rpilink.com/knowledge/positioning-technologies/uwb-aoa-installation-calibration/index.md): Plan UWB AoA station mounting, coordinates, orientation, network setup and calibration checks, with diagrams and a PY-U360 product-specific reference.
+- [Personnel Tracking Badges: Protocols, Battery Life and Protection](https://www.rpilink.com/knowledge/positioning-technologies/personnel-tracking-badge-selection/index.md): Choose a personnel tracking badge by positioning protocol, gateway compatibility, shift battery requirements and environmental protection, with practical diagrams.
+- [What Makes Up the Cost of an Indoor Positioning Project?](https://www.rpilink.com/knowledge/positioning-technologies/indoor-positioning-project-cost/index.md): Understand indoor positioning system costs: tags, anchors, installation, software, integration, commissioning and maintenance, with a practical RTLS budget framework.
+- [UWB Positioning Technology](https://www.rpilink.com/knowledge/positioning-technologies/uwb-positioning/index.md): Learn how UWB positioning works: compare TDoA, ToF / TWR and PDoA / AoA with diagrams, hardware requirements and industrial RTLS deployment guidance.
+
+## Bluetooth technology guides
+
+- [Bluetooth Technology](https://www.rpilink.com/knowledge/bluetooth-technology/index.md): Learn Bluetooth LE radio advantages and limitations, then compare BLE 4.2, 5.0, 5.1 and 6.0 features with illustrated technical guides and selection checklists.
+- [Bluetooth RF Technology: Advantages and Disadvantages](https://www.rpilink.com/knowledge/bluetooth-technology/bluetooth-rf-advantages-disadvantages/index.md): Explore Bluetooth LE radio strengths and limitations: low-duty-cycle operation, 2.4 GHz interference, antenna placement, PHY tradeoffs and industrial testing.
+- [BLE 4.2 vs 5.0 vs 5.1 vs 6.0: Features and Differences](https://www.rpilink.com/knowledge/bluetooth-technology/ble-versions-comparison/index.md): Compare BLE 4.2, 5.0, 5.1 and 6.0: data length, PHY options, direction finding and Channel Sounding, with feature tables and compatibility guidance.
+
+## Products and specifications
+
+- [Indoor AoA Positioning Gateway | JJ-IS40BXPA](https://www.rpilink.com/products/product-12/index.md): JJ-IS40BXPA BLE AoA gateway for indoor positioning and RTLS asset tracking, with a Bluetooth antenna array, PoE and ACServer integration.
+- [Outdoor AoA Positioning Gateway | JJ-IS40BXPAO](https://www.rpilink.com/products/product-11/index.md): JJ-IS40BXPAO outdoor Bluetooth AoA positioning gateway with IP67 protection, Ethernet and PoE for personnel and asset location projects.
+- [Indoor UWB Positioning Station | JJ-IS40BUA / JJ-U](https://www.rpilink.com/products/product-10/index.md): JJ-IS40BUA / JJ-U indoor UWB positioning station for personnel and asset tracking in factories and warehouses, with ceiling mounting and PoE.
+- [UWB AoA Positioning Station | PY-U360A / B / C](https://www.rpilink.com/products/product-20/index.md): PY-U360 UWB AoA positioning stations measure azimuth, elevation and range for personnel, asset and vehicle location, with Bluetooth gateway functions.
+- [Outdoor Dual-Channel UWB Station | JJ-U Dual Channel](https://www.rpilink.com/products/product-17/index.md): JJ-U dual-channel UWB station for linear positioning in tunnels and utility corridors, with directional antennas and an IP67 metal enclosure.
+- [Bluetooth Ceiling Gateway | JJ-IS40BXP](https://www.rpilink.com/products/product-13/index.md): JJ-IS40BXP Bluetooth gateway collects BLE beacon broadcasts and positioning data for indoor location systems, with ceiling or wall mounting.
+- [Expandable Bluetooth Gateway | JJ-IS40B Series](https://www.rpilink.com/products/product-14/index.md): JJ-IS40B Bluetooth gateway for beacon data collection and IoT integration. Optional LoRa, Zigbee, 4G or RFID expansion depends on cards and firmware.
+- [DIN-Rail Bluetooth 4G Gateway | IS40B4GDP](https://www.rpilink.com/products/product-02/index.md): IS40B4GDP industrial Bluetooth 4G gateway with DIN-rail mounting, BLE data collection, UDP/MQTT transport and wide-input power options.
+- [Indoor Bluetooth LoRa Gateway | JJ-IS40BL](https://www.rpilink.com/products/product-09/index.md): JJ-IS40BL indoor Bluetooth LoRa gateway with an SX1301 concentrator, eight uplink channels and PoE for personnel tag and sensor data collection.
+- [Dual-Mode LoRaWAN Gateway | JJ-IS40BL LoRaWAN](https://www.rpilink.com/products/product-15/index.md): JJ-IS40BL LoRaWAN gateway with SX1302, eight channels, Class A/B/C and Bluetooth for LPWAN sensor data and asset-tracking connectivity.
+- [Outdoor Bluetooth LoRa Gateway | JJ-IS40BLOP](https://www.rpilink.com/products/product-19/index.md): JJ-IS40BLOP outdoor Bluetooth LoRa gateway collects personnel location and sensor data, with Ethernet backhaul and optional 4G variants.
+- [iBeacon Beacon Series | JJ-IB32I / JJ-IB100 / JJ-IB32W](https://www.rpilink.com/products/product-03/index.md): JJ iBeacon series for Bluetooth beacon location and proximity applications. Compare indoor, industrial and wristband variants with configurable broadcasts.
+- [Bluetooth Asset Tag | JJ-IP32B](https://www.rpilink.com/products/product-08/index.md): JJ-IP32B Bluetooth asset tracking tag with motion-adaptive broadcasts, low-battery monitoring and gateway-based indoor positioning.
+- [Bluetooth UWB Asset Tag | JJ-IP32BU](https://www.rpilink.com/products/product-05/index.md): JJ-IP32BU Bluetooth UWB asset tag for indoor location tracking, with motion sensing and low-battery alerts. Requires a compatible UWB gateway.
+- [Clip-On Anti-Tamper Asset Tag | JJ-IP32BC](https://www.rpilink.com/products/product-06/index.md): JJ-IP32BC clip-on Bluetooth AoA asset tag for tools and medical equipment, with tamper alerts, motion sensing and remote LED indication.
+- [Anti-Tamper / Dual-Mode Asset Tags | JJ-IP33B / JJ-IP32BL](https://www.rpilink.com/products/product-07/index.md): Compare JJ-IP33B anti-tamper Bluetooth and JJ-IP32BL Bluetooth LoRa asset tags for equipment tracking, movement detection and configurable reporting.
+- [Smart Helmet Location Terminal | JJ-IH32UGRL](https://www.rpilink.com/products/product-04/index.md): JJ-IH32UGRL smart helmet tracker for worker location, with Bluetooth LoRa, emergency alarms, voice and vibration prompts and IP67 protection.
+- [Multi-Mode Personnel Badge | IR-T10A / B / C / D](https://www.rpilink.com/products/product-18/index.md): IR-T10 personnel tracking badges with Bluetooth LoRa, voice and vibration. UWB, BeiDou and access-card functions vary by model.
+- [E-paper Location Badge | E-paper Location Badge](https://www.rpilink.com/products/product-16/index.md): E-paper location badge with Bluetooth, LoRa and GPS/BeiDou positioning for personnel tracking and visible identification, with a 2.13-inch display.
+
+## Industrial positioning solutions
+
+- [BLE Indoor Positioning & Bluetooth Beacon Tracking](https://www.rpilink.com/solutions/ble-beacon/index.md): Plan Bluetooth indoor positioning and BLE asset tracking with beacons, RSSI gateways and tags. Compare zone detection, calibration and AoA requirements.
+- [BLE AoA Indoor Positioning & Asset Tracking](https://www.rpilink.com/solutions/ble-aoa/index.md): Explore BLE AoA indoor positioning with antenna-array gateways, compatible tags and a location engine for personnel, tools and medical equipment.
+- [UWB Indoor Positioning & Asset Tracking](https://www.rpilink.com/solutions/uwb-beacon/index.md): Plan UWB indoor positioning and warehouse asset tracking. Compare UWB RTLS tags, anchors, ranging methods, synchronization and hardware compatibility.
+- [UWB TDoA Positioning & Multi-Tag RTLS](https://www.rpilink.com/solutions/uwb-tdoa/index.md): Learn how UWB TDoA positioning uses synchronized anchors and tag timestamps for industrial RTLS, with network planning and hardware verification guidance.
+- [UWB PDoA Positioning & Direction Finding](https://www.rpilink.com/solutions/uwb-pdoa/index.md): Explore UWB PDoA phase-based direction finding, antenna calibration and range-angle fusion. Confirm RF hardware support before selecting products.
+- [Tunnel Personnel Tracking & UWB Positioning](https://www.rpilink.com/solutions/tunnel/index.md): Plan tunnel and utility-corridor personnel positioning with UWB stations and suitable wearable terminals. Review coverage, installation and compatibility.
+- [Personnel Tracking System: Indoor & Outdoor](https://www.rpilink.com/solutions/hybrid/index.md): Plan a personnel tracking system with indoor Bluetooth or UWB, supported outdoor positioning and compatible backhaul. Compare badges and LoRa vs LoRaWAN.
+
+## Optional
+
+- [Complete public page collection](https://www.rpilink.com/llms-full.txt): All 40 Markdown page alternatives in one file, with canonical URLs and original page references.
+- [HTML sitemap](https://www.rpilink.com/sitemap.xml): Canonical pages for search crawlers.
